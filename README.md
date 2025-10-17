@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # TODOS Project
 
 Bu proje için açıklama buraya gelecek.
@@ -21,3 +22,6 @@ Katkıda bulunma rehberi buraya eklenecek.
 ## Lisans
 
 Lisans bilgileri buraya eklenecek.
+=======
+# TODOS
+>>>>>>> 1f07d93f7cc3309131825daf3ef972ade0a344ad
